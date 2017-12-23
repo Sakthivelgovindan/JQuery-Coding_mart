@@ -1,0 +1,177 @@
+body{
+	height:100%;
+	width:100%;
+}
+
+#box{
+	height:550px ;
+	width:790px;
+	border:1px solid black;
+	margin-left:300px;
+	margin-top: 40px;
+
+}
+
+#inside{
+	
+	position:absolute;
+	height:140px;
+	width:790px;
+	background-color:black;
+}
+
+#ifirst,#isecond,#ithird,#ifourth,#ififth,#isix,#iseven,#ieight,#inine,#iten,#ieleven,#itwelve{
+	position:absolute;
+	height:140px;
+	width:100px;
+
+}
+
+#ifirst{
+	z-index:1;
+	margin-left:0px;
+}
+
+
+#isecond{
+	z-index:1;
+	margin-left:60px;
+}
+
+#ithird{
+	z-index:1;
+	margin-left:120px;
+}
+
+#ifourth{
+	z-index:1;
+	margin-left:180px;
+}
+
+
+#ififth{
+	z-index:1;
+	margin-left:240px;
+}
+
+#isix{
+	z-index:1;
+	margin-left:300px;
+}
+
+#iseven{
+	z-index:1;
+	margin-left:360px;
+}
+
+#ieight{
+	z-index:1;
+	margin-left:420px;
+}
+
+#inine{
+	z-index:1;
+	margin-left:480px;
+}
+
+#iten{
+	z-index:1;
+	margin-left:540px;
+}
+
+#ieleven{
+	z-index:1;
+	margin-left:600px;
+}
+
+#itwelve{
+	z-index:1;
+	margin-left:660px;
+}
+
+
+
+
+#first,#second,#third,#fourth,#fifth,#six,#seven,#eight,#nine,#ten,#eleven,#twelve{
+	position:absolute;
+	transform:rotate(180deg);
+	height:100px;
+	width:70px;
+}
+
+#first1,#second1,#third1,#fourth1,#fifth1,#six1,#seven1,#eight1,#nine1,#ten1,#eleven1,#twelve1{
+	position:absolute;
+	height:100px;
+	width:70px;
+}
+
+#bottom{
+
+	margin-top:450px;
+	
+	height:100px;
+	width:100%;
+}
+
+#first,#first1{
+	margin-left:0px;
+}
+
+
+#second,#second1{
+	margin-left:70px;
+	
+}
+
+#third,#third1{
+	margin-left:140px;
+	
+}
+
+#fourth,#fourth1{
+	margin-left:210px;
+	
+}
+
+#fifth,#fifth1{
+	margin-left:280px;
+	
+}
+
+#six,#six1{
+	margin-left:350px;
+	
+}
+
+#seven,#seven1{
+	margin-left:420px;
+	
+}
+
+#eight,#eight1{
+	margin-left:480px;
+	
+}
+
+#nine,#nine1{
+	margin-left:530px;
+	
+}
+
+#ten,#ten1{
+	margin-left:590px;
+	
+}
+
+#eleven,#eleven1{
+	margin-left:660px;
+	
+}
+
+#twelve,#twelve1{
+	margin-left:720px;
+	
+}
+
+
+
