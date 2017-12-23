@@ -1,0 +1,55 @@
+body{
+	height:100%;
+	width:100%;
+
+}
+
+#first,#second{
+	color:white;
+	font-size: 30px;
+	margin-left:1px;
+	position:relative:;
+	
+}
+
+#pos{
+	background-color:black;
+	text-align:center;
+	margin-top:0px;
+	height:600px;
+	width:500px;
+}
+
+#player,#board{
+	color:white;
+}
+
+#score{
+	color:white;
+	font-size:30px;
+}
+
+#run{
+	color:gray;
+	font-size:30px;
+}
+
+#board{
+	
+	font-size:30px;
+}
+
+#scoreboard1,#scoreboard2{
+	color:white;
+	font-size:30px; 
+	
+}
+#scoreboard11,#scoreboard22{
+	color:white;
+	font-size:40px;
+}
+
+#startplay{
+	height:40px;
+width:90px;
+}

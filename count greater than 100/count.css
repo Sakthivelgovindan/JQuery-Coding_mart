@@ -1,0 +1,52 @@
+body{
+	height:100%;
+	width:100%;
+}
+
+#first{
+	width:380px;
+	margin-left:30px;
+	height:1000px;
+	
+	position:absolute;
+}
+
+#second{
+	width:380px;
+	margin-left:480px;
+	height:1000px;
+	
+	position:absolute;
+}
+
+#result{
+	width:380px;
+	margin-left:920px;
+	height:1000px;
+	
+	position:absolute;
+}
+
+#form1{
+	
+	margin-top:10px;
+	margin-left:30px;
+	font-size:23px;
+}
+
+#form2{
+
+	margin-top:10px;
+	margin-left:10px;
+	font-size:23px;
+}
+
+#align1{
+	position:relative;
+	margin-left:30px;
+}
+
+#align2{
+	position:relative;
+	margin-left:10px;
+}

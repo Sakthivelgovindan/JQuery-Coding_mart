@@ -1,0 +1,55 @@
+body{
+height:100%;
+width:100%;
+}
+
+img{
+	height:100%;
+	width:100%;
+}
+#main{
+	position:fixed;
+	height:400px;
+	width:400px;
+	border:1px solid black;
+	background-color:gray;
+	margin-top:100px;
+	margin-left:200px;
+}
+
+
+#sample{
+	position:fixed;
+	height:400px;
+	width:400px;
+	border:1px solid black;
+	background-color:gray;
+	margin-top:100px;
+	margin-left:800px;
+}
+
+
+#mainimg{
+	height:30px;
+	width:30px;
+	position:absolute;
+	margin-top:80px;
+	margin-left:80px;
+	}
+
+
+#sampleimg{
+	height:30px;
+	width:30px;
+	position:absolute;
+	margin-top:80px;
+	margin-left:80px;
+}
+
+#hitting{
+	position:fixed;
+	margin-top:250px;
+	margin-left:670px;
+}
+
+
